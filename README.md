@@ -14,4 +14,4 @@ Satu kutipan orisinal oleh saya sendiri
 Tiga belas kutipan dari buku Think and Grow Rich karya Napoleon Hill
 
 Update:
-test
+test2
