@@ -1,6 +1,6 @@
 <?php
 
-namespace MyVendor\InspiringQuotes;
+namespace Wahab\InspiringQuotes;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Stringable;

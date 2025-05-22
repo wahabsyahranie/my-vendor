@@ -1,9 +1,9 @@
 {
-  "name": "my-vendor/inspiring-quotes",
+  "name": "wahab/inspiring-quotes",
   "description": "Custom inspirational quotes for Laravel",
   "autoload": {
     "psr-4": {
-      "MyVendor\\InspiringQuotes\\": "src/"
+      "Wahab\\InspiringQuotes\\": "src/"
     }
   },
   "require": {
