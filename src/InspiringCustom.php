@@ -38,7 +38,7 @@ class InspiringCustom
             'Orang yang mudah menyerah tidak akan menjadi pemenang dan pemenang tidak pernah menyerah. - TGR',
             'Semua hambatan, semua kegagalan, dan semua kepiluan membawa benih keuntungan yang setara atau bahkan lebih besar. - TGR',
             'Kebahagiaan didapat dari melakukan. Bukan sekedar memiliki. - TGR',
-            'Katakan pada dunia apa yang hendak anda lakukan, tapi pertama-tama tunjukkan hal itu. - TGR',
+            'Katakan pada dunia apa yang hendak anda lakukan, tapi pertama tama tunjukkan hal itu. - TGR',
             'Kesombongan adalah kabut yang menyelubungi karakter sejati seseorang sampai ia pun tak bisa mengenalinya. Hal itu memperlemah kemampuannya sekaligus memperkuat kelemahannya. - TGR',
             'Tidak ada orang yang mencapai kesukseskan besar tanpa pengorbanan pribadi. - TGR',
             'Tangga kesuksesan tidak pernah penuh di puncak. - TGR',
